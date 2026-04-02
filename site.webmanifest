@@ -1,0 +1,19 @@
+{
+  "name": "Falkirk Helix & The Kelpies — Visitor Guide",
+  "short_name": "Falkirk Helix",
+  "description": "Independent visitor guide to the Falkirk Helix and The Kelpies.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "browser",
+  "background_color": "#ffffff",
+  "theme_color": "#0c4a6e",
+  "lang": "en-GB",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
