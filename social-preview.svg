@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Falkirk Helix Visitor Guide</title>
+  <desc id="desc">Independent guide to The Kelpies, parking, tours and local tips.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#082f49"/>
+      <stop offset="55%" stop-color="#0c4a6e"/>
+      <stop offset="100%" stop-color="#155e75"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7dd3fc"/>
+      <stop offset="100%" stop-color="#e0f2fe"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1020" cy="120" r="180" fill="#ffffff" opacity="0.08"/>
+  <circle cx="170" cy="520" r="220" fill="#ffffff" opacity="0.05"/>
+  <path d="M760 410V210l80 100 80-100 80 100 80-100v200" fill="none" stroke="url(#accent)" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+  <text x="90" y="185" fill="#e0f2fe" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="3">FALKIRKHELIX.CO.UK</text>
+  <text x="90" y="295" fill="#ffffff" font-family="Georgia, Times New Roman, serif" font-size="82" font-weight="700">Falkirk Helix</text>
+  <text x="90" y="382" fill="#ffffff" font-family="Georgia, Times New Roman, serif" font-size="82" font-weight="700">&amp; The Kelpies</text>
+  <text x="90" y="455" fill="#dbeafe" font-family="Segoe UI, Arial, sans-serif" font-size="34">Independent visitor guide with local tips, parking advice, tours and day-planning help</text>
+  <rect x="90" y="505" width="410" height="54" rx="27" fill="#ffffff" opacity="0.12"/>
+  <text x="120" y="541" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="600">Parking  Tours  Night visits  Food  Hotels</text>
+</svg>

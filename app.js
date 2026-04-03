@@ -1,0 +1,3 @@
+// FalkirkHelix.co.uk — shared site JS
+function toggleFaq(el){var a=el.nextElementSibling;var open=a.classList.contains('open');document.querySelectorAll('.faq-a').forEach(function(x){x.classList.remove('open')});document.querySelectorAll('.faq-q').forEach(function(x){x.classList.remove('open');x.setAttribute('aria-expanded','false')});if(!open){a.classList.add('open');el.classList.add('open');el.setAttribute('aria-expanded','true')}}
+document.querySelector('.nav-toggle').addEventListener('click',function(){document.getElementById('main-nav').classList.toggle('open');this.setAttribute('aria-expanded',document.getElementById('main-nav').classList.contains('open'))});
